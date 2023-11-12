@@ -1,0 +1,27 @@
+figure{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+figure{
+    max-width: 500px;
+}
+
+img{
+    display: block;
+    max-width: 100%;
+}
+
+main{
+    background-image: url("https://i.ibb.co/4J1G9QD/Darksouls3wp.jpg");
+    background-size: cover;
+    background-position-x: right;
+    background-position-y: center;
+}
+
+hr{
+    opacity: 1;
+    max-width: 300px;
+}
